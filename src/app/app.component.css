@@ -1,0 +1,11 @@
+#lateralMenu {
+    width: 30vw;
+    background: rgb(223, 223, 223);
+    color: rgb(34, 34, 34);
+    height: 100vh;
+  
+}
+
+.container {
+    height: 100vh;
+}
